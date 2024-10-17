@@ -1,6 +1,6 @@
 //C functions
-#include <stdio.h> //scanf(),printf()
-#include <math.h>//cos(),tan(),sin(),sqrt()
+#include <stdio.h> 
+#include <math.h>
 int sum(int e, int f, int g);
 int multiplication(int i, int j);
 
